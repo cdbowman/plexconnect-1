@@ -1,5 +1,5 @@
 FROM phusion/baseimage:0.9.17
-MAINTAINER pducharme <pducharme@me.com>
+MAINTAINER cdbowman <cdbowman2.0@gmail.com>
 # FORK FROM Needo37-Plexconnect on GitHub
 
 # Set correct environment variables
